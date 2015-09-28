@@ -4,7 +4,9 @@ I am excited to share the experience of my new posession with you.
 
 Well, a few weeks back I bought a new gadget for myself referred to as Raspberry Pi 2 (alias RP2). As you might be aware, it’s a credit card sized CPU, the smallest one would have ever seen, with minimal but sufficient on board components. It draws power from a mini USB port, boasts of quad-core ARM Cortex-A7 CPU, a VideoCore IV dual-core GPU and 1GB RAM, all under 35$. It boots from a micro-SD card carrying any of the compatible OSes including Windows 10 IoT. It connects via HDMI port to any viewing device like television.
 
-<< Insert Image 1 and 2 >>
+![Image of RP2 Box](img/1.jpg)
+
+![Image of RP2](img/2.jpg)
 
 Since I have one of those old LCD Television sets which has a USB port for pictures but does not allow video playback, I started out by booting up my RP2 with OSMC, which is an open source media center based on minimal debian linux distro, and connected my gadget with an HDMI port.
 
