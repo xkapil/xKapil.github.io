@@ -36,6 +36,8 @@ Using OSMC on RP2, I could also connect my iOS 8 device via Airplay and could pl
 
 Note: To play the iDevice contents, remember that you have following property enabled under Settings > Services > Air Play
 
+###Conclusion
+
 In my opinion, the above setup can also be used in cases, when your TV set has support for videos, but it does not playback all the formats that OSMC can support. I have also seen certain TV sets which have a support for flash drive but not an external hard drive.
 
 In addition to it, if you are going ahead with the Raspbian OS, which is foundation’s officially supported operating system based on Debian optimized for the Raspberry Pi hardware, the possibilities are endless. Starting with making your stupid TV set to a smart TV wherein you could browse internet, play games, code programs in python and node.js, to making drones, robots, home automation and what not.
