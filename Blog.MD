@@ -4,19 +4,19 @@ I am excited to share the experience of my new posession with you.
 
 Well, a few weeks back I bought a new gadget for myself referred to as Raspberry Pi 2 (alias RP2). As you might be aware, it’s a credit card sized CPU, the smallest one would have ever seen, with minimal but sufficient on board components. It draws power from a mini USB port, boasts of quad-core ARM Cortex-A7 CPU, a VideoCore IV dual-core GPU and 1GB RAM, all under 35$. It boots from a micro-SD card carrying any of the compatible OSes including Windows 10 IoT. It connects via HDMI port to any viewing device like television.
 
-![Image of RP2 Box](img/1.jpg)
+![Image of RP2 Box](img/1.JPG)
 
-![Image of RP2](img/2.jpg)
+![Image of RP2](img/2.JPG)
 
 Since I have one of those old LCD Television sets which has a USB port for pictures but does not allow video playback, I started out by booting up my RP2 with OSMC, which is an open source media center based on minimal debian linux distro, and connected my gadget with an HDMI port.
 
-![Home of OSMC](img/3.jpg)
+![Home of OSMC](img/3.JPG)
 
 Then, I connected my WD Elements External hard drive on one of the available USB ports and booted up my gadget. 
 
 I could see all the media content which was available on the drive ready for playback. Below is a screen grab from A Beautiful Mind.
 
-![Video Playback](img/4.jpg)
+![Video Playback](img/4.JPG)
 
 Note: In case you do not see your external USB Drive being mounted, you can go and enable property My OSMC > Pi Config > GPU Mem and Codec > max_usb_current. This will not be required if you are using a flash drive.
 
@@ -26,13 +26,13 @@ To make it more fun, I tried setting up my phone as a remote control. All I need
 
 To  connect my gadget to the internet, I had also bought a Tenda wireless USB adapter to enable Wifi. It’s an avoidable purchase, if you are comfortable with using a LAN cable for the available port on the gadget. 
 
-![Remote Control](img/5.jpg)
+![Remote Control](img/5.PNG)
 
 ###Airplay
 
 Using OSMC on RP2, I could also connect my iOS 8 device via Airplay and could play my content on a larger screen. Yup, you don’t need Apple TV to do that, an humble RP2 can do that for you. Admittedly, it does not play youtube content yet, but it’s good for the pictures and videos taken by the iDevice.
 
-![iPad content on TV using Airplay](img/6.jpg)
+![iPad content on TV using Airplay](img/6.JPG)
 
 Note: To play the iDevice contents, remember that you have following property enabled under Settings > Services > Air Play
 
