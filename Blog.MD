@@ -42,8 +42,11 @@ This gadget is also useful for households who need a computer for browsing inter
 
 ####Further Reading:
 https://www.raspberrypi.org/
-https://github.com/raspberrypilearning
-https://osmc.tv/
-http://kodi.tv/about/
-https://www.raspbian.org/
 
+https://github.com/raspberrypilearning
+
+https://osmc.tv/
+
+http://kodi.tv/about/
+
+https://www.raspbian.org/
