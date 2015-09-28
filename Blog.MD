@@ -6,7 +6,7 @@ Well, a few weeks back I bought a new gadget for myself referred to as Raspberry
 
 << Insert Image 1 and 2 >>
 
-Since I have one of those old LCD Television set which has a USB port for pictures but does not allow video playback, I started out by booting up my RP2 with OSMC, which is an open source media center based on minimal debian linux distro, and connected my gadget with an HDMI port.
+Since I have one of those old LCD Television sets which has a USB port for pictures but does not allow video playback, I started out by booting up my RP2 with OSMC, which is an open source media center based on minimal debian linux distro, and connected my gadget with an HDMI port.
 
 << Image 3 >>
 
@@ -20,7 +20,7 @@ Note: In case you do not see your external USB Drive being mounted, you can go a
 
 ###Using Android/iPhone as Remote Control
 
-To make it more fun, I tried setting up my phone as a remote control. All I needed was Kodi Remote app from Play/App Store and IP address of my newly acquired gadget. Now, I didn’t even need a keyboard/mouse and can really enjoy my content with the credit card sized computer hidden behind a large TV set.
+To make it more fun, I tried setting up my phone as a remote control. All I needed was Kodi Remote app from Play/App Store and IP address of my newly acquired gadget. Now, I don’t even need a keyboard/mouse and can really enjoy my content with the credit card sized computer hidden behind a large TV set.
 
 To  connect my gadget to the internet, I had also bought a Tenda wireless USB adapter to enable Wifi. It’s an avoidable purchase, if you are comfortable with using a LAN cable for the available port on the gadget. 
 
@@ -28,7 +28,7 @@ To  connect my gadget to the internet, I had also bought a Tenda wireless USB ad
 
 ###Airplay
 
-Using OSMC on RP2, I could also connect my iOS 8 device via Airplay and could play my content on a larger screen. Yup, you don’t need Apple TV to do that, a humble RP2 can do that for you. Admittedly, it does not play youtube content yet, but it’s good for the pictures and videos taken by the iDevice.
+Using OSMC on RP2, I could also connect my iOS 8 device via Airplay and could play my content on a larger screen. Yup, you don’t need Apple TV to do that, an humble RP2 can do that for you. Admittedly, it does not play youtube content yet, but it’s good for the pictures and videos taken by the iDevice.
 
 << Image 6 >>
 
