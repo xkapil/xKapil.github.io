@@ -10,13 +10,13 @@ Well, a few weeks back I bought a new gadget for myself referred to as Raspberry
 
 Since I have one of those old LCD Television sets which has a USB port for pictures but does not allow video playback, I started out by booting up my RP2 with OSMC, which is an open source media center based on minimal debian linux distro, and connected my gadget with an HDMI port.
 
-<< Image 3 >>
+![Home of OSMC](img/3.jpg)
 
 Then, I connected my WD Elements External hard drive on one of the available USB ports and booted up my gadget. 
 
 I could see all the media content which was available on the drive ready for playback. Below is a screen grab from A Beautiful Mind.
 
-<<Image 4>>
+![Video Playback](img/4.jpg)
 
 Note: In case you do not see your external USB Drive being mounted, you can go and enable property My OSMC > Pi Config > GPU Mem and Codec > max_usb_current. This will not be required if you are using a flash drive.
 
@@ -26,13 +26,13 @@ To make it more fun, I tried setting up my phone as a remote control. All I need
 
 To  connect my gadget to the internet, I had also bought a Tenda wireless USB adapter to enable Wifi. It’s an avoidable purchase, if you are comfortable with using a LAN cable for the available port on the gadget. 
 
-<< Image 5 >>
+![Remote Control](img/5.jpg)
 
 ###Airplay
 
 Using OSMC on RP2, I could also connect my iOS 8 device via Airplay and could play my content on a larger screen. Yup, you don’t need Apple TV to do that, an humble RP2 can do that for you. Admittedly, it does not play youtube content yet, but it’s good for the pictures and videos taken by the iDevice.
 
-<< Image 6 >>
+![iPad content on TV using Airplay](img/6.jpg)
 
 Note: To play the iDevice contents, remember that you have following property enabled under Settings > Services > Air Play
 
